@@ -45,7 +45,7 @@ Cuando se muestran las búsquedas de los personajes, es posible darles click, y 
 
 ### Observaciones personales.
 
-Fue un proyecto bastante bueno para mí, ya que me ayudó a darme una idea de todo lo que hay que tener en cuenta a la hora de desarrollar un proyecto, además de que fue un reto, me di cuenta de todas las cosas en las que debo mejorar para seguir avanzando.
+Fue un proyecto bastante bueno para mí, ya que me ayudó a darme una idea de todo lo que hay que tener en cuenta a la hora de desarrollar un proyecto, además de que fue un reto, me di cuenta de todas las cosas en las que debo mejorar para seguir avanzando, muchas gracias por esta oportunidad :D.
 
 
 
